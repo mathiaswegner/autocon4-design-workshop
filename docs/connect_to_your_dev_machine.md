@@ -11,7 +11,9 @@
 ![](https://ajeuwbhvhr.cloudimg.io/https://colony-recorder.s3.amazonaws.com/files/2025-05-23/64799b53-7d32-47f6-ac5d-33f39597bb93/ascreenshot.jpeg?tl_px=90,428&br_px=2842,1967&force_format=jpeg&q=100&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=890,277)
 
 
-3\. Enter the username (email) and password you received in your email
+3\. Enter the username (email) and password you received in your email. 
+
+__If you are a returning user and don't know your password, click "Forgot your password?" and enter your email address to send instructions on how to reset your password.__
 
 ![](https://ajeuwbhvhr.cloudimg.io/https://colony-recorder.s3.amazonaws.com/files/2025-05-23/a5a5fa18-b40c-4049-922a-0ff38c08eb92/ascreenshot.jpeg?tl_px=90,132&br_px=2842,1671&force_format=jpeg&q=100&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=847,277)
 
@@ -42,6 +44,8 @@
 
 
 9\. You will be presented with a virtual desktop for your dev machine
+
+__If you are unable to access the virtual desktop, you most likely have software preventing the RDP connection to the host. You can try connecting using a pure HTTP connection by navigating to <https://{YOUR_POD_NAME}.cloud.networktocode.com/guacamole/#/>. Enter the SSH username and password, then click "Login". Click "jumphost-rdp" to then access the pod.__
 
 ![](https://ajeuwbhvhr.cloudimg.io/https://colony-recorder.s3.amazonaws.com/files/2025-05-23/e4e74369-f580-4549-87b0-95c58c46e00a/ascreenshot.jpeg?tl_px=0,0&br_px=2752,1538&force_format=jpeg&q=100&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=156,159)
 
